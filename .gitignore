@@ -1,0 +1,8 @@
+*.aux
+*.log
+CM_Ethics.pdf
+*.out
+*.synctex*
+*.sublime-workspace
+*.DS_STORE
+*.DS_Store
