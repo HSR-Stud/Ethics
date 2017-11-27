@@ -6,3 +6,4 @@ CM_Ethics.pdf
 *.sublime-workspace
 *.DS_STORE
 *.DS_Store
+out/

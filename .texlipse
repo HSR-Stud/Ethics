@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Mon Nov 27 11:31:22 CET 2017
+markTmpDer=true
+builderNum=2
+outputDir=out
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=CM_Ethics.tex
+outputFile=CM_Ethics.pdf
+langSpell=en
+markDer=true
+srcDir=
